@@ -225,6 +225,11 @@
     padding-top: 1rem ;
     padding-bottom: 3rem;
 }
+
+.formulario{
+    width:100%;
+    height:500px;
+}
 /* PIE */
 .pie {
     grid-area: footer;

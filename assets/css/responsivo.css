@@ -4,6 +4,10 @@
         display: none;
     }
 
+    .servicios{
+        height: 100%;
+        padding: 0;
+    }
     .noticias {
         display: none;
     }
