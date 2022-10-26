@@ -6,7 +6,7 @@
 
     .servicios{
         height: 100%;
-        padding: 0;
+        padding: none;
     }
     .noticias {
         display: none;
